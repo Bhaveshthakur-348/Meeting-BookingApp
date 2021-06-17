@@ -1,0 +1,6 @@
+@import url("https://cdn.syncfusion.com/ej2/material.css");
+.centre {
+  justify-content: centre;
+  align-items: center;
+  text-align: center;
+}

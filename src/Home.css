@@ -1,0 +1,16 @@
+.Home {
+  display: flex;
+  flex-direction: column;
+  padding-top: 20px;
+}
+.img {
+  width: 100%;
+  height: 450px;
+}
+.heading__left {
+  background-color: white;
+  color: white;
+}
+.color {
+  color: white;
+}

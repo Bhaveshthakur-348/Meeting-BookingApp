@@ -1,0 +1,12 @@
+.heading__name {
+  padding: 10px;
+  font-size: 20px;
+  color: blue;
+}
+
+.heading__text {
+  padding: 5px;
+}
+.button__bottom {
+  margin-bottom: 60px;
+}
